@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+dist/
+build/
+*.build/
+*.dist/
+*.onefile-build/
+hito_main.build/
+hito_main.dist/
+hito_main.onefile-build/
+nuitka-crash-report.xml

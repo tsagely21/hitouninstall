@@ -1,0 +1,7 @@
+# Build, test and asset tools
+nuitka==4.3.1
+ordered-set
+zstandard
+pytest==9.2.0
+pyflakes
+Pillow
